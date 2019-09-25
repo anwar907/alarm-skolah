@@ -2,8 +2,8 @@
     <string name="app_name">Alarm Skolah</string>
 
     <string-array name="jadwal">
-        <item>Jadwal Masuk</item>
-        <item>Jadwal Keluar Main</item>
-        <item>Jadwal Pulang</item>
+        <item>Jam Masuk</item>
+        <item>Jam Isirahat</item>
+        <item>Jam Pulang</item>
     </string-array>
 </resources>

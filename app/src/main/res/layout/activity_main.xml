@@ -17,7 +17,7 @@
        android:id="@+id/tp"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-       android:text="Jadwal masuk"
+       android:text="Jam Masuk"
        android:onClick="Alarm"
        tools:ignore="MissingConstraints,OnClick">
    </TimePicker>
@@ -29,7 +29,7 @@
         android:id="@+id/display_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Alaram dibuat"
+        android:text="Buat Alarm"
         android:textAlignment="center"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints" />
