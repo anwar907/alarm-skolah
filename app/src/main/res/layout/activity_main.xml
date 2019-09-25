@@ -18,7 +18,6 @@
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:text="Jam Masuk"
-       android:onClick="Alarm"
        tools:ignore="MissingConstraints,OnClick">
    </TimePicker>
 <androidx.constraintlayout.widget.ConstraintLayout

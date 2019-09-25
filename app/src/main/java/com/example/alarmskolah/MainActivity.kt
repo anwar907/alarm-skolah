@@ -91,7 +91,8 @@ class MainActivity : AppCompatActivity() {
                 myInstant.putExtra("extra","off")
                 sendBroadcast(myInstant)
             }
-        })
+        }
+        )
     }
 
     private fun set_alarm_text(s: String) {
